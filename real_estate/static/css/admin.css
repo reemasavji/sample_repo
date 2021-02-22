@@ -1,0 +1,35 @@
+#header {
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 40px;
+    background: #10284e;
+    color: #fff;
+    overflow: hidden;
+}
+
+#branding h1{
+    color: #ffffff;
+}
+div.breadcrumbs {
+    background: #12ac82 !important;
+    color: #000000;
+}
+div.breadcrumbs a {
+    color: #000;
+}
+
+.module h2, .module caption, .inline-group h2 {
+    margin: 0;
+    padding: 8px;
+    font-weight: 400;
+    font-size: 13px;
+    text-align: left;
+    background: #30caa0;
+    color: #fff;
+}
+.button, input[type=submit], input[type=button], .submit-row input, a.button {
+    background: #009688;
+}
